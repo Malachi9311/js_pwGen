@@ -24,4 +24,4 @@ const createPassword = () => {
 const copyPassword = () => {
     passwordBox.select();
     document.execCommand("copy");
-}
+};
